@@ -23,3 +23,14 @@ To run this project locally:
 # Clone the repository
 git clone https://github.com/Ramisamimhaz/Assignment-11.git
 
+# Clone the repository
+git clone https://github.com/mdriyazakondo/Farmer-client-site.git
+
+# Navigate to the project folder
+cd Assignment-11
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
