@@ -3,7 +3,7 @@
 
 🔗 **Live URL:**
 
-
+netlify link: https://deft-strudel-436c98.netlify.app/
 
 
 ## Technologies Used
