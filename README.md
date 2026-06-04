@@ -24,7 +24,7 @@ To run this project locally:
 git clone https://github.com/Ramisamimhaz/Assignment-11.git
 
 # Clone the repository
-git clone https://github.com/mdriyazakondo/Farmer-client-site.git
+git clone https://github.com/Ramisamimhaz/Assignment-11.git
 
 # Navigate to the project folder
 cd Assignment-11
